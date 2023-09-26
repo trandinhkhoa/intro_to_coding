@@ -1,4 +1,4 @@
-# Intro to Coding for Busy People
+# Intro to Coding for A Friend
 
 ## References
 - https://www.youtube.com/watch?v=ysEN5RaKOlA
